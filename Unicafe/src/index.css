@@ -1,0 +1,13 @@
+#good:hover {
+  background-color:green;
+  color: aliceblue;
+}
+
+#bad:hover {
+  background-color: red;
+  color: aliceblue;
+}
+button {
+  padding: 10px;
+}
+

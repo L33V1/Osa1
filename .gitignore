@@ -1,0 +1,11 @@
+anekdootit/.gitignore
+anekdootit/.git/
+anekdootit/.node_modules/
+
+Unicafe/.gitignore
+Unicafe/.git/
+Unicafe/.node_modules/
+
+ykkonen/.gitignore
+ykkonen/.git/
+ykkonen/.node_modules/
